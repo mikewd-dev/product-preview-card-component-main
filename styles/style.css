@@ -160,6 +160,10 @@ body {
         font-size: xx-large;
     }
 
+    .strike-price {
+        padding-top: 8px;
+    }
+
     .description {
         font-size: xx-large;
         font-family: 'Fraunces', serif;
