@@ -9,7 +9,7 @@
 
 
 ## Description
-This application updates in realtime as the user enters their card details in the fields. The application is responsive and was made using HTML, CSS and Bootstrap 
+A webpage that is responsive and was made using HTML, CSS and Bootstrap 
 
 
 
